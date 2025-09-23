@@ -1,4 +1,4 @@
-# 📁 Calculator App
+# 📂 Calculator App
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1652199546/Challenges/zjx3vvssz4f9zxr2djai.jpg)
 
